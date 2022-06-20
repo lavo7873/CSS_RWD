@@ -1,0 +1,14 @@
+body{
+    margin:0 auto;
+    font-family: Arial, Tahoma;
+}
+
+#s-body{
+    float: left;
+}
+
+#head, #head-link, #s-body, #footer{
+    width: 100%;                         
+    margin-bottom:5px;
+    clear: both;
+}
